@@ -4,6 +4,12 @@
 
 ---
 
+## 📄 Project Report
+
+📥 **[Download the Full Project Report (PDF)](docs/ARspace-Final-Report.pdf)**
+
+---
+
 ## ✨ Features
 
 ### 🪑 AR Furniture Placement
