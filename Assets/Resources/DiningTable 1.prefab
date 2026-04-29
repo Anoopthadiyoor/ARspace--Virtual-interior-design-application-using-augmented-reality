@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &320596005274869290
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7090172708948836902, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6da42a8858698a4eb3e26fb668a92b1, type: 2}
+    - target: {fileID: -4828036624544102812, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6da42a8858698a4eb3e26fb668a92b1, type: 2}
+    - target: {fileID: -2151556013265485418, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6da42a8858698a4eb3e26fb668a92b1, type: 2}
+    - target: {fileID: -1134226205967931318, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6da42a8858698a4eb3e26fb668a92b1, type: 2}
+    - target: {fileID: 919132149155446097, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Name
+      value: DiningTable 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_TagString
+      value: Furniture
+      objectReference: {fileID: 0}
+    - target: {fileID: 5308305149818150827, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6da42a8858698a4eb3e26fb668a92b1, type: 2}
+    - target: {fileID: 5694059874591286030, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b9ca693574a7d3e458b48d6ffafa735c, type: 2}
+    - target: {fileID: 7100926188723340003, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6da42a8858698a4eb3e26fb668a92b1, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7142438888439237760}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3831664766055462071}
+  m_SourcePrefab: {fileID: 100100000, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+--- !u!1 &627009217346954107 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: cab5204ace5fb854e98b91bff86325d3, type: 3}
+  m_PrefabInstance: {fileID: 320596005274869290}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &7142438888439237760
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627009217346954107}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 53.4115, y: 28.446243, z: 81.77322}
+  m_Center: {x: -0.15505981, y: 12.482613, z: -0.20193863}
+--- !u!114 &3831664766055462071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627009217346954107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dcc4dead60520e458528f421073b531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  furnitureName: Classic Wood Dining Table
+  price: 18000
